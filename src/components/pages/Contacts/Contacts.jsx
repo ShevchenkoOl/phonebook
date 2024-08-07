@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import HomePage from "components/HomePage/HomePage";
+import HomePage from "components/pages/HomePage/HomePage";
 import { Notify } from "notiflix";
 import { nanoid } from "nanoid";
 import ContactsList from "./ContactsList";

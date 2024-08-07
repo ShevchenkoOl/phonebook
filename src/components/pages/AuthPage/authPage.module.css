@@ -1,0 +1,16 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+  }
+  
+  .label {
+    display: flex;
+    flex-direction: column;
+    margin: 0.5rem auto;
+    align-items: center;
+    font-size: large;
+    text-align: left;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+  }

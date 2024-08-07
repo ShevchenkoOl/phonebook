@@ -1,0 +1,45 @@
+.header {
+  background-color: #747474;
+  padding: 10px 0;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.logo {
+  color: #fff;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+.navLinks {
+  display: flex;
+  gap: 15px;
+}
+
+.navLink {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 15px;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+}
+
+.navLink:hover,
+.navLink:focus,
+.navLink:active {
+  color: #fc7005;
+}
+
+.logo:hover,
+.logo:focus,
+.logo:active {
+  color: #fc7005;
+}

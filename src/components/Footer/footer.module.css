@@ -1,0 +1,26 @@
+/* footer.module.css */
+.footer {
+  /* position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    background-color: #747474;
+    box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.1); */
+  text-align: center;
+  padding: 10px 0;
+  background-color: #747474;
+  box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.1);
+}
+
+.section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+
+.heart {
+  display: inline-block;
+  margin: 0 5px;
+}

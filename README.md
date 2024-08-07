@@ -1,10 +1,11 @@
 # Phonebook App
 This project was created for the purpose of practicing using Hooks (```useState```, ```useEffect```, ```useRef```, ```useMemo```). It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), uses routing [React Router](https://reactrouter.com/en/main), uses "lazy loading"
-```Suspense``` and ```React.lazy```and has been added the spinner from the [React Spinners](https://mhnpd.github.io/react-loader-spinner/) library.
+```Suspense``` and ```React.lazy```.
 
 ### This project uses:
 * the [nanoid](https://www.npmjs.com/package/nanoid) library, which creates an id for each contact;
-* the [notiflix](https://notiflix.github.io/notify);
+* the [notiflix](https://notiflix.github.io/notify) library;
+* the [React Spinners](https://mhnpd.github.io/react-loader-spinner/) library;
 
 ## How to Use the Repository
 

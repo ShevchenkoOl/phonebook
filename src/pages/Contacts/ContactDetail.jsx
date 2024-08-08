@@ -10,7 +10,7 @@ return (
       <div className={styles.modalContainer}>
         <FaRegWindowClose className={styles.closeIcon} onClick={onClose} />
         <h2 className={styles.title}>Contact Detail</h2>
-        <span className={styles.text}>{contact.name}: {contact.number}</span>
+        <span className={styles.text}>{contact.name}: {contact.phone}</span>
       </div>
     </div>
 )

@@ -1,8 +1,8 @@
 import Headr from 'components/Headr/Headr';
 import styles from './authPage.module.css';
 import Footer from 'components/Footer/Footer';
-import TextFields from 'components/UI/TextFields/TextFieds';
-import Button from 'components/UI/Button/Button';
+import TextFields from 'utilits/TextFields/TextFieds';
+import Button from 'utilits/Button/Button';
 const AuthPage = () => {
     return (
         <>

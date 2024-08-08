@@ -3,7 +3,7 @@ import styles from './homePage.module.css';
 import Headr from 'components/Headr/Headr';
 import { Link } from 'react-router-dom';
 import Footer from 'components/Footer/Footer';
-import Button from 'components/UI/Button/Button';
+import Button from 'utilits/Button/Button';
 
 const HomePage = () => {
   return (

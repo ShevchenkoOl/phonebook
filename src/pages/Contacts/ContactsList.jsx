@@ -19,7 +19,7 @@ const ContactsList = ({
         {contactsList.map((contact) => (
           <li key={contact.id} className={styles.item}>
             <span>
-              {contact.name}: {contact.number}
+              {contact.name}: {contact.phone}
             </span>
             <div className={styles.buttonGroup}>
               <button
